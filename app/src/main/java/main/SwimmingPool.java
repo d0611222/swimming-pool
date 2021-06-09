@@ -1,4 +1,4 @@
-package SwimmingPool;
+package swimming_pool;
 
 public class SwimmingPool {
 	public int getPrice(boolean isWeekend, int age, int time, boolean isGroup, boolean isMember) {

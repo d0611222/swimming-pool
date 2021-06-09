@@ -1,4 +1,4 @@
-package SwimmingPool;
+package swimming_pool;
 
 import static org.junit.jupiter.api.Assertions.*;
 
