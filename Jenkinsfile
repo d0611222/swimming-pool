@@ -21,7 +21,7 @@ pipeline {
             }
         }
     }
-    stage('sonarqube-analysis'){
+    stages ('sonarqube-analysis'){
         environment{
             SONAR_TOKEN = credentials('SonarQube-token')
         }
